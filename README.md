@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/reactive-resume-1?utm_medium=integration&utm_source=button&utm_campaign=reactive-resume)
+
 # Reactive Resume on Railway
 
 This repo builds the [Reactive Resume](https://github.com/reactive-resume/reactive-resume) Railway template: a free, open-source resume builder you host yourself.
