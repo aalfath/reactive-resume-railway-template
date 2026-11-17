@@ -2,6 +2,12 @@
 
 Each entry is one version of this Railway template. Breaking changes are listed first.
 
+## Unreleased (2026-11-17): README button
+
+No change to the app or its configuration.
+
+- README starts with the Deploy on Railway button for the published template `reactive-resume-1`.
+
 ## v6.1.1 (2026-11-17)
 
 First release of the template.
